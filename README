@@ -4,6 +4,6 @@ Spaceship flies through randomly generated cave, player task is to avoid crashin
 
 Controls: WASD
 
-Works if compiled and started in Visual Studio console.
+Works if compiled and started in Visual Studio Windows Terminal.
 
 Difficulty selection and high scores not ready yet.
