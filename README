@@ -1,0 +1,9 @@
+Pure console C++ game
+
+Spaceship flies through randomly generated cave, player task is to avoid crashing.
+
+Controls: WASD
+
+Works if compiled and started in Visual Studio console.
+
+Difficulty selection and high scores not ready yet.
